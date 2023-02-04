@@ -34,8 +34,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=ffffff"/>
+<br/> 
 <img src="https://img.shields.io/badge/GitHub-a3a3a3?style=for-the-badge&logo=GitHub&logoColor=181717"/>
+<img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GitHubDesktop-662a81?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=ffffff"/>
 
 #
 
